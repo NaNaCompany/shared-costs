@@ -1,0 +1,59 @@
+{
+  "slug": "shared-costs",
+  "url": "https://nanalab.kr/shared-costs/",
+  "languages": [
+    "ko",
+    "en",
+    "es",
+    "zh",
+    "ja",
+    "de"
+  ],
+  "locales": {
+    "ko": {
+      "name": "자취 비용 분배",
+      "description": "거주일·면적·사용량·가중치로 공용·개인 비용을 배분하고 결제자별 잔액과 송금 제안을 확인하세요.",
+      "image_alt": "자취 비용 분배"
+    },
+    "en": {
+      "name": "Shared Living Costs",
+      "description": "Allocate shared and personal expenses by occupancy days, area, usage or weights, and review payer balances and suggested transfers.",
+      "image_alt": "Shared Living Costs"
+    },
+    "es": {
+      "name": "Reparto de gastos del hogar",
+      "description": "Reparte gastos comunes y personales por días de estancia, superficie, consumo o pesos y consulta saldos y transferencias sugeridas.",
+      "image_alt": "Reparto de gastos del hogar"
+    },
+    "zh": {
+      "name": "合租费用分摊",
+      "description": "按居住天数、面积、用量或权重分摊公共与个人费用，并查看各付款人的余额和转账建议。",
+      "image_alt": "合租费用分摊"
+    },
+    "ja": {
+      "name": "生活費の分担計算",
+      "description": "居住日数・面積・使用量・重みで共有・個人費用を配分し、支払者ごとの残高と送金案を確認できます。",
+      "image_alt": "生活費の分担計算"
+    },
+    "de": {
+      "name": "Wohnkosten aufteilen",
+      "description": "Verteilen Sie gemeinsame und persönliche Kosten nach Wohntagen, Fläche, Verbrauch oder Gewichten und prüfen Sie Salden und vorgeschlagene Überweisungen.",
+      "image_alt": "Wohnkosten aufteilen"
+    },
+    "fr": {
+      "name": "Répartition des frais partagés",
+      "description": "Répartissez les frais communs et personnels selon les jours d'occupation, la surface, l'usage ou des poids, puis consultez les soldes et virements proposés.",
+      "image_alt": "Répartition des frais partagés"
+    },
+    "pt": {
+      "name": "Divisão de despesas compartilhadas",
+      "description": "Distribua despesas comuns e pessoais por dias de moradia, área, consumo ou pesos e confira saldos e sugestões de transferência.",
+      "image_alt": "Divisão de despesas compartilhadas"
+    },
+    "ru": {
+      "name": "Распределение общих расходов",
+      "description": "Распределяйте общие и личные расходы по дням проживания, площади, потреблению или весам и проверяйте балансы и предлагаемые переводы.",
+      "image_alt": "Распределение общих расходов"
+    }
+  }
+}
